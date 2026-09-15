@@ -1,0 +1,6 @@
+{
+  "name": "OTC Signal Pro",
+  "description": "OTC binary trading real-time price action signal generator with Lucifer AI voice assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
